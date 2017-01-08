@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Blog Talking</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Common -->
+    <string name="bt_ok">OK</string>
+    <string name="bt_cancel">Cancel</string>
+    <string name="bt_yes">Yes</string>
+    <string name="bt_no">No</string>
+    <string name="bt_err_unknown">Unknown error occurred</string>
+    <string name="bt_err_server_unavailable">Cannot connect to server, check network status and retry it please.</string>
+
+    <!-- Add Blog Entry -->
+    <string name="bt_add_blog_entity">Add blog entry</string>
+    <string name="bt_title">Title</string>
+    <string name="bt_content">Content</string>
+    <string name="bt_permission_desc_external_storage">To attach image, we need to access your external storage.</string>
+    <string name="bt_permission_desc_camera">To take photo, we need to access your camera.</string>
+    <string name="bt_cancel_write_desc">Are you sure to cancel adding blog entry?</string>
+    <string name="bt_cancel_edit_desc">Are you sure to cancel editing blog entry?</string>
+    <string name="bt_add_image_from_gallery">Pick from gallery</string>
+    <string name="bt_add_image_from_camera">Take a photo</string>
+    <string name="bt_err_empty_title">Enter title please</string>
+    <string name="bt_err_empty_content">Enter content please</string>
+    <string name="bt_save_confirm">Are you sure to save it?</string>
+
+    <!-- Blog Entry List -->
+    <string name="bt_err_server_unavailable_with_refresh">Cannot connect to server.\nCheck network status and re-try it please.\n\n(Press here to refresh)</string>
+    <string name="bt_empty_blog_entry">There is no blog entry</string>
+    <string name="bt_sort_by_date">Sort by date</string>
+    <string name="bt_sort_by_title_asc">Title Ascending</string>
+    <string name="bt_sort_by_title_desc">Title Descending</string>
+
+    <!-- Blog Entry Viewer -->
+    <string name="bt_blog_entry_viewer">Blog Detail</string>
+    <string name="bt_edit">Edit</string>
+
+    <!-- Image Picker -->
+    <string name="hs_select_image">Select Image</string>
+    <string name="hs_all_images">All Images</string>
+    <string name="hs_err_exceed_max_image_count">You cannot add image anymore</string>
+    <string name="hs_err_min_image_count_with_value">You should choose at least %1$d images.</string>
+    <string name="hs_err_no_image">No Images</string>
+    <string name="hs_image_selected_with_value">%1$d/%2$d images selected</string>
+</resources>

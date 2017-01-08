@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="input_image">
+        <item>@string/bt_add_image_from_gallery</item>
+        <item>@string/bt_add_image_from_camera</item>
+    </string-array>
+
+</resources>
